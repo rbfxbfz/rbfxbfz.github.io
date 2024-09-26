@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://rbfxbfz.github.io/sitemap.rbfxbfz.gz
+Sitemap: https://rbfxbfz.github.io/app/sitemap.rbfxbfz.gz
+Sitemap: https://rbfxbfz.github.io/assets/sitemap.rbfxbfz.gz
+Sitemap: https://rbfxbfz.github.io/css/sitemap.rbfxbfz.gz
+Sitemap: https://rbfxbfz.github.io/data/sitemap.rbfxbfz.gz
+Sitemap: https://rbfxbfz.github.io/includes/sitemap.rbfxbfz.gz
+Sitemap: https://rbfxbfz.github.io/item/sitemap.rbfxbfz.gz
+Sitemap: https://rbfxbfz.github.io/src/sitemap.rbfxbfz.gz
